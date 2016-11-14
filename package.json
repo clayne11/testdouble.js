@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "lodash": "^4.15.0",
-    "quibble": "^0.3.0",
+    "quibble": "clayne11/quibble#absolutify-scoped-modules",
     "stringify-object": "^2.4.0"
   },
   "devDependencies": {
